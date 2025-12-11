@@ -1,6 +1,144 @@
 [
     {
         "grades": {
+            "client_tech": 5,
+            "networking": 5,
+            "web_design": 5,
+            "system_integration": 5,
+            "programming": 5
+        },
+        "gradeObjects": {
+            "client_tech": {
+                "grade": 5,
+                "description": "Failing (<60%)"
+            },
+            "networking": {
+                "grade": 5,
+                "description": "Failing (<60%)"
+            },
+            "web_design": {
+                "grade": 5,
+                "description": "Failing (<60%)"
+            },
+            "system_integration": {
+                "grade": 5,
+                "description": "Failing (<60%)"
+            },
+            "programming": {
+                "grade": 5,
+                "description": "Failing (<60%)"
+            }
+        },
+        "subjectNames": {
+            "client_tech": "Client Technologies",
+            "networking": "Networking 2",
+            "web_design": "Principles of Web Design",
+            "system_integration": "System Integration",
+            "programming": "Integrative Programming Technologies 2"
+        },
+        "attendance": 5,
+        "attendanceGrade": 5,
+        "attendanceDescription": "Failing (<60%)",
+        "finalGrade": 5,
+        "status": "FAILED",
+        "graduationProb": 56.25,
+        "needsRetake": true,
+        "timestamp": "2025-12-11 11:22:40"
+    },
+    {
+        "grades": {
+            "client_tech": 3,
+            "networking": 3,
+            "web_design": 2.75,
+            "system_integration": 3,
+            "programming": 2.75
+        },
+        "gradeObjects": {
+            "client_tech": {
+                "grade": 3,
+                "description": "Passing (60-64%)"
+            },
+            "networking": {
+                "grade": 3,
+                "description": "Passing (60-64%)"
+            },
+            "web_design": {
+                "grade": 2.75,
+                "description": "Passing (65-69%)"
+            },
+            "system_integration": {
+                "grade": 3,
+                "description": "Passing (60-64%)"
+            },
+            "programming": {
+                "grade": 2.75,
+                "description": "Passing (65-69%)"
+            }
+        },
+        "subjectNames": {
+            "client_tech": "Client Technologies",
+            "networking": "Networking 2",
+            "web_design": "Principles of Web Design",
+            "system_integration": "System Integration",
+            "programming": "Integrative Programming Technologies 2"
+        },
+        "attendance": 2.75,
+        "attendanceGrade": 2.75,
+        "attendanceDescription": "Passing (65-69%)",
+        "finalGrade": 2.875,
+        "status": "INVALID",
+        "graduationProb": 86.25,
+        "needsRetake": false,
+        "timestamp": "2025-12-11 07:20:16"
+    },
+    {
+        "grades": {
+            "client_tech": 1.25,
+            "networking": 1.75,
+            "web_design": 2,
+            "system_integration": 1.25,
+            "programming": 2.25
+        },
+        "gradeObjects": {
+            "client_tech": {
+                "grade": 1.25,
+                "description": "Very Good (95-98%)"
+            },
+            "networking": {
+                "grade": 1.75,
+                "description": "Good (85-89%)"
+            },
+            "web_design": {
+                "grade": 2,
+                "description": "Good (80-84%)"
+            },
+            "system_integration": {
+                "grade": 1.25,
+                "description": "Very Good (95-98%)"
+            },
+            "programming": {
+                "grade": 2.25,
+                "description": "Satisfactory (75-79%)"
+            }
+        },
+        "subjectNames": {
+            "client_tech": "Client Technologies",
+            "networking": "Networking 2",
+            "web_design": "Principles of Web Design",
+            "system_integration": "System Integration",
+            "programming": "Integrative Programming Technologies 2"
+        },
+        "attendance": 1.5,
+        "attendanceGrade": 1.5,
+        "attendanceDescription": "Very Good (90-94%)",
+        "finalGrade": 1.6666666666666667,
+        "status": "EXCELLENT",
+        "graduationProb": 100,
+        "needsRetake": false,
+        "timestamp": "2025-12-11 06:53:17"
+    },
+    {
+        "grades": {
             "client_tech": 1.25,
             "networking": 1,
             "web_design": 1,
