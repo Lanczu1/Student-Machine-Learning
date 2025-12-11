@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2025-12-04 15:08:14",
+        "attendance": 100,
+        "mathematics": 85,
+        "english": 70,
+        "science": 60,
+        "history": 75,
+        "pe": 74,
+        "average": 86.4,
+        "prediction": "Pass",
+        "performance_level": "Excellent"
+    },
+    {
+        "timestamp": "2025-12-04 15:03:26",
+        "attendance": 50,
+        "mathematics": 50,
+        "english": 50,
+        "science": 50,
+        "history": 50,
+        "pe": 50,
+        "average": 50,
+        "prediction": "Fail",
+        "performance_level": "Needs Improvement"
+    },
+    {
+        "timestamp": "2025-12-04 15:03:10",
+        "attendance": 70,
+        "mathematics": 70,
+        "english": 70,
+        "science": 70,
+        "history": 70,
+        "pe": 70,
+        "average": 70,
+        "prediction": "Pass",
+        "performance_level": "Very Good"
+    },
+    {
+        "timestamp": "2025-12-04 14:56:49",
+        "attendance": 80,
+        "mathematics": 80,
+        "english": 80,
+        "science": 80,
+        "history": 80,
+        "pe": 80,
+        "average": 80,
+        "prediction": "Pass",
+        "performance_level": "Very Good"
+    },
+    {
+        "timestamp": "2025-12-04 14:55:07",
+        "attendance": 90,
+        "mathematics": 85,
+        "english": 80,
+        "science": 75,
+        "history": 80,
+        "pe": 90,
+        "average": 86,
+        "prediction": "Pass",
+        "performance_level": "Excellent"
+    }
+]
